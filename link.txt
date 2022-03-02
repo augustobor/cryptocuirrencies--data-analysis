@@ -1,1 +1,5 @@
-https://www.kaggle.com/varpit94/cardano-data
+coin-base:https://www.kaggle.com/daniel122/july-to-august-2021-minute-analysis-of-crypto
+
+coin-market-cap:https://www.kaggle.com/kingabzpro/crypto
+
+crypto-prices:https://www.kaggle.com/nulldata/cryptocurrencies-price
